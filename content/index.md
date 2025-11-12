@@ -1,48 +1,35 @@
 ---
-title: Work Tracker
-description: A digital garden of work tracking notes and daily activities
+title: Rupali Bhatnagar
+description: Software Engineer | AI/ML Enthusiast | Tech Professional
+hideFolderListing: true
 ---
 
-# Work Tracker
+# 👋 Hi, I'm Rupali Bhatnagar
 
-Welcome to my digital garden of work tracking notes and daily activities.
+**🚀 Software Engineer | AI/ML Enthusiast | Tech Professional**
 
-This site contains my daily work logs organized by year and month, tracking my progress, activities, and accomplishments.
+Welcome to my digital garden of work tracking notes and daily activities. This site contains my daily work logs organized by year and month, tracking my progress, activities, and accomplishments.
 
-## 📅 Browse by Year
+---
 
-- [[2024]] - Work tracking notes from 2024
-- [[2025]] - Work tracking notes from 2025
+## 💼 About Me
 
-## 🗓️ Quick Navigation
+Experienced software engineer with a passion for building innovative solutions and staying at the forefront of technology. Recently worked at **ServiceNow** in the **SecOps department** as part of the **VR (Vulnerability Response) team**, specializing in full-stack development, AI/ML integration, and security operations platform development.
 
-### 2025
-- [[2025/January/January 2025|January 2025]]
-- [[2025/February/February 2025|February 2025]]
-- [[2025/March/March 2025|March 2025]]
-- [[2025/April/April 2025|April 2025]]
-- [[2025/May/May|May 2025]]
-- [[2025/June/June|June 2025]]
-- [[2025/July/July|July 2025]]
-- [[2025/August/August|August 2025]]
-- [[2025/September/September 2025|September 2025]]
-- [[2025/October/October 2025|October 2025]]
-- [[2025/November/November 2025|November 2025]]
-- [[2025/December/December 2025|December 2025]]
+**📍 Location:** Hyderabad, India  
+**🌐 Website:** [tathya.dev](https://tathya.dev)  
+**💻 GitHub:** [@Rupali59](https://github.com/Rupali59)
 
-### 2024
-- [[2024/January/January 2024|January 2024]]
-- [[2024/February/February 2024|February 2024]]
-- [[2024/March/March 2024|March 2024]]
-- [[2024/April/April 2024|April 2024]]
-- [[2024/May/May 2024|May 2024]]
-- [[2024/June/June 2024|June 2024]]
-- [[2024/July/July 2024|July 2024]]
-- [[2024/August/August 2024|August 2024]]
-- [[2024/September/September 2024|September 2024]]
-- [[2024/October/October 2024|October 2024]]
-- [[2024/November/November 2024|November 2024]]
-- [[2024/December/December 2024|December 2024]]
+---
+
+## 🛠️ Technical Expertise
+
+**Core Technologies:** JavaScript, Python, Go, TypeScript, PHP, PowerShell  
+**Frontend & UI/UX:** React, HTML5, CSS3, Bootstrap, Sass  
+**Backend & APIs:** Node.js, Express.js, .NET, Laravel, Django  
+**Cloud & DevOps:** AWS, Docker, Jenkins, Git, Linux  
+**Databases:** MySQL, MongoDB, PostgreSQL, Redis  
+**AI/ML & Data Science:** TensorFlow, PyTorch, Scikit-learn, Jupyter, OpenCV, MATLAB
 
 ## 🔍 Features
 
@@ -51,9 +38,17 @@ This site contains my daily work logs organized by year and month, tracking my p
 - **Tag browsing** - Explore content by tags
 - **Mobile responsive** - Access your notes anywhere
 
-## 📝 About
+## 📝 About This Site
 
 This digital garden is automatically synced from my Obsidian Calendar vault, keeping my work tracking notes up-to-date and accessible. Built with [Quartz](https://quartz.jzhao.xyz/), a static site generator that transforms Markdown notes into a beautiful, searchable digital garden.
+
+---
+
+## 🌐 Connect With Me
+
+- **GitHub:** [@Rupali59](https://github.com/Rupali59)
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/rupali-bhatnagar)
+- **Portfolio:** [tathya.dev](https://tathya.dev)
 
 ---
 

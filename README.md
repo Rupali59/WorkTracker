@@ -9,6 +9,23 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
+## Content
+
+This digital garden contains work tracking notes organized by year and month. Content is synced from Obsidian Calendar.
+
+- **Content source**: `/Users/rupali.b/Documents/GitHub/Obsidian/Calendar`
+- **Sync content**: Run `./scripts/sync-content.sh` to update content
+- **Content sync guide**: See [docs/sync/CONTENT_SYNC.md](./docs/sync/CONTENT_SYNC.md)
+
+## Keeping Up-to-Date
+
+This repository is based on the Quartz template. To sync updates from the upstream Quartz repository:
+
+- **Manual sync**: See [docs/sync/UPDATE_GUIDE.md](./docs/sync/UPDATE_GUIDE.md)
+- **Automatic daily sync**: See [docs/sync/SETUP_DAILY_SYNC.md](./docs/sync/SETUP_DAILY_SYNC.md)
+- **Documentation**: See [docs/sync/syncing-updates.md](./docs/sync/syncing-updates.md)
+- **Project structure**: See [docs/sync/PROJECT_STRUCTURE.md](./docs/sync/PROJECT_STRUCTURE.md)
+
 ## Sponsors
 
 <p align="center">

@@ -29,12 +29,29 @@ const defaultOptions: Options = {
   mapFn: (node) => {
     return node
   },
-  sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabeticall
+  sortFn: function(a, b) {
+    // Sort order: folders first, then files
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-      return a.displayName.localeCompare(b.displayName, undefined, {
+      var aName = (a.displayName || "").toLowerCase()
+      var bName = (b.displayName || "").toLowerCase()
+      
+      // Month order: 0=january, 1=february, etc.
+      var monthOrder = {january:0,february:1,march:2,april:3,may:4,june:5,july:6,august:7,september:8,october:9,november:10,december:11}
+      
+      var aMonth = -1
+      var bMonth = -1
+      for (var month in monthOrder) {
+        if (aName.indexOf(month) === 0) aMonth = monthOrder[month]
+        if (bName.indexOf(month) === 0) bMonth = monthOrder[month]
+      }
+      
+      // If both are months, sort chronologically
+      if (aMonth >= 0 && bMonth >= 0) {
+        return aMonth - bMonth
+      }
+      
+      // Otherwise, sort alphabetically with numeric support
+      return (a.displayName || "").localeCompare(b.displayName || "", undefined, {
         numeric: true,
         sensitivity: "base",
       })
@@ -46,7 +63,19 @@ const defaultOptions: Options = {
       return -1
     }
   },
-  filterFn: (node) => node.slugSegment !== "tags",
+  filterFn: function(node) {
+    // Filter out tags
+    if (node.slugSegment === "tags") return false
+    
+    // Filter out daily calendar files (DD-MM-YYYY.md pattern)
+    // Check if the display name or slug segment matches date pattern
+    var name = node.displayName || node.slugSegment || ""
+    // Pattern: starts with 2 digits, dash, 2 digits, dash, 4 digits (e.g., "01-08-2025")
+    var datePattern = /^\d{2}-\d{2}-\d{4}/
+    if (datePattern.test(name)) return false
+    
+    return true
+  },
   order: ["filter", "map", "sort"],
 }
 

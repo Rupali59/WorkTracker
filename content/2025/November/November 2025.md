@@ -1,15 +1,10 @@
-# November 2025
-
 ## 📅 Calendar View
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
 | | | | | | [1](01-11-2025.md) | [2](02-11-2025.md) |
 | [3](03-11-2025.md) | [4](04-11-2025.md) | [5](05-11-2025.md) | [6](06-11-2025.md) | [7](07-11-2025.md) | [8](08-11-2025.md) | [9](09-11-2025.md) |
-| [10](10-11-2025.md) | [11](11-11-2025.md) | [12](12-11-2025.md) | [13](13-11-2025.md) | [14](14-11-2025.md) | [15](15-11-2025.md) | [16](16-11-2025.md) |
-| [17](17-11-2025.md) | [18](18-11-2025.md) | [19](19-11-2025.md) | [20](20-11-2025.md) | [21](21-11-2025.md) | [22](22-11-2025.md) | [23](23-11-2025.md) |
-| [24](24-11-2025.md) | [25](25-11-2025.md) | [26](26-11-2025.md) | [27](27-11-2025.md) | [28](28-11-2025.md) | [29](29-11-2025.md) | [30](30-11-2025.md) |
-
-## 📊 Monthly Summary
-
-*GitHub activity and notes will be added here.*
+| [10](10-11-2025.md) | [11](11-11-2025.md) | [12](12-11-2025.md) | <span style='color: #999; opacity: 0.6;'>13</span> | <span style='color: #999; opacity: 0.6;'>14</span> | <span style='color: #999; opacity: 0.6;'>15</span> | <span style='color: #999; opacity: 0.6;'>16</span> |
+| <span style='color: #999; opacity: 0.6;'>17</span> | <span style='color: #999; opacity: 0.6;'>18</span> | <span style='color: #999; opacity: 0.6;'>19</span> | <span style='color: #999; opacity: 0.6;'>20</span> | <span style='color: #999; opacity: 0.6;'>21</span> | <span style='color: #999; opacity: 0.6;'>22</span> | <span style='color: #999; opacity: 0.6;'>23</span> |
+| <span style='color: #999; opacity: 0.6;'>24</span> | <span style='color: #999; opacity: 0.6;'>25</span> | <span style='color: #999; opacity: 0.6;'>26</span> | <span style='color: #999; opacity: 0.6;'>27</span> | <span style='color: #999; opacity: 0.6;'>28</span> | <span style='color: #999; opacity: 0.6;'>29</span> | <span style='color: #999; opacity: 0.6;'>30</span> |
+## 

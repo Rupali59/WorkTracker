@@ -9,3 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+.sync.log
+.sync-error.log
+# PDF files in content (uncomment if you don't want to track PDFs)
+# content/**/*.pdf
