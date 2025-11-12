@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "rupali59.github.io/WorkTracker",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", ".space"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
