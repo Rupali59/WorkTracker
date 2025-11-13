@@ -1,11 +1,16 @@
+# September 2024
+
 ## 📅 Calendar View
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
-| | | | | | | <span style='color: #999; opacity: 0.6;'>1</span> |
-| <span style='color: #999; opacity: 0.6;'>2</span> | <span style='color: #999; opacity: 0.6;'>3</span> | <span style='color: #999; opacity: 0.6;'>4</span> | <span style='color: #999; opacity: 0.6;'>5</span> | <span style='color: #999; opacity: 0.6;'>6</span> | <span style='color: #999; opacity: 0.6;'>7</span> | <span style='color: #999; opacity: 0.6;'>8</span> |
-| <span style='color: #999; opacity: 0.6;'>9</span> | <span style='color: #999; opacity: 0.6;'>10</span> | <span style='color: #999; opacity: 0.6;'>11</span> | <span style='color: #999; opacity: 0.6;'>12</span> | <span style='color: #999; opacity: 0.6;'>13</span> | <span style='color: #999; opacity: 0.6;'>14</span> | <span style='color: #999; opacity: 0.6;'>15</span> |
-| <span style='color: #999; opacity: 0.6;'>16</span> | <span style='color: #999; opacity: 0.6;'>17</span> | <span style='color: #999; opacity: 0.6;'>18</span> | <span style='color: #999; opacity: 0.6;'>19</span> | <span style='color: #999; opacity: 0.6;'>20</span> | <span style='color: #999; opacity: 0.6;'>21</span> | <span style='color: #999; opacity: 0.6;'>22</span> |
-| <span style='color: #999; opacity: 0.6;'>23</span> | <span style='color: #999; opacity: 0.6;'>24</span> | <span style='color: #999; opacity: 0.6;'>25</span> | <span style='color: #999; opacity: 0.6;'>26</span> | <span style='color: #999; opacity: 0.6;'>27</span> | <span style='color: #999; opacity: 0.6;'>28</span> | <span style='color: #999; opacity: 0.6;'>29</span> |
-| <span style='color: #999; opacity: 0.6;'>30</span> | | | | | | |
-## 
+| | | | | | | [1](01-09-2024.md) |
+| [2](02-09-2024.md) | [3](03-09-2024.md) | [4](04-09-2024.md) | [5](05-09-2024.md) | [6](06-09-2024.md) | [7](07-09-2024.md) | [8](08-09-2024.md) |
+| [9](09-09-2024.md) | [10](10-09-2024.md) | [11](11-09-2024.md) | [12](12-09-2024.md) | [13](13-09-2024.md) | [14](14-09-2024.md) | [15](15-09-2024.md) |
+| [16](16-09-2024.md) | [17](17-09-2024.md) | [18](18-09-2024.md) | [19](19-09-2024.md) | [20](20-09-2024.md) | [21](21-09-2024.md) | [22](22-09-2024.md) |
+| [23](23-09-2024.md) | [24](24-09-2024.md) | [25](25-09-2024.md) | [26](26-09-2024.md) | [27](27-09-2024.md) | [28](28-09-2024.md) | [29](29-09-2024.md) |
+| [30](30-09-2024.md) | | | | | | |
+
+## 📊 Monthly Summary
+
+*GitHub activity and notes will be added here.*
