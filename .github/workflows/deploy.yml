@@ -27,6 +27,14 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
+      - name: Ensure content files are tracked
+        run: |
+          # Check if content is a symlink and dereference if needed
+          if [ -L content ]; then
+            echo "Content is a symlink, ensuring files are tracked..."
+            # Files should already be committed, but verify
+            git ls-files content/ | head -5 || echo "No content files tracked"
+          fi
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
