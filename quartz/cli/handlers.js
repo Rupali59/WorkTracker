@@ -354,19 +354,6 @@ export async function handleBuild(argv) {
 
     await build(clientRefresh)
     const server = http.createServer(async (req, res) => {
-      // Redirect root path to baseDir
-      if (argv.baseDir && req.url === "/") {
-        res.writeHead(302, {
-          Location: argv.baseDir,
-        })
-        console.log(
-          styleText("yellow", "[302]") +
-            styleText("grey", ` ${req.url} -> ${argv.baseDir}`),
-        )
-        res.end()
-        return
-      }
-
       if (argv.baseDir && !req.url?.startsWith(argv.baseDir)) {
         console.log(
           styleText(
